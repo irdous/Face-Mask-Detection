@@ -1,7 +1,7 @@
 # Face-Mask-Detection
 During pandemic COVID-19, WHO has made wearing masks compulsory to protect against this deadly virus. In this I will develop a machine learning project – Real-time Face Mask Detector with Python.
 Today it has become mandatory for all the citizens to wear a face mask to protect themselves from COVID-19. This application can be helpful for all the shop owners, offices, banks or any public place because if anyone is not wearing a mask then he or she must not be allowed in that area. So, to take care of this problem we don’t need any guard or person who keeps a watch on people. We can integrate a camera which continuously clicks pictures of humans and detect from there faces whether they are wearing a face mask or not.
-### Steps I
+## Steps I
 Load images using Python or any other programming you are working on.
 Convert images into array
 And finally apply some algorithm on that array
@@ -33,7 +33,7 @@ To implement this case study, we need a lot of images of people wearing a mask a
 
 So first we need to collect data and we are going to collect data using our own camera. Here is the complete code to perform face detection using camera and storing face data only:![Code](https://user-images.githubusercontent.com/89900052/132044691-2e499850-6d57-462a-826f-9ad808bcc8f0.PNG)
 
-### Step II
+## Step II
 Now we can load the data anywhere and start processing it to apply machine learning on it.
 
 we can apply machine learning on our data after dividing it into train and test.
