@@ -42,6 +42,9 @@ The algorithm we are using is SVM
 
 ### Result:
 After training this data on SVM we are getting accuracy of 100%.
+If we are use the given link then the output be like as
+![output1](https://user-images.githubusercontent.com/89900052/132082432-b36c27bf-9b4d-47d5-9624-871f3aad6f4e.PNG)
+![output2](https://user-images.githubusercontent.com/89900052/132082433-be8e113c-386b-4999-bd08-7277cd82d05c.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/89900052/132045770-5efbae56-b084-477a-97ee-a44ceb8098db.PNG)
 ![Capture3](https://user-images.githubusercontent.com/89900052/132045779-48fa4c4d-0e09-431a-b5c7-867c761713e7.PNG)
